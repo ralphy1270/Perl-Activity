@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE metadata SYSTEM "/xce/DTD/conv/pubmeta_info.dtd">
+
+<metadata>
+
+<conversion_spec type="XML" applic="B23330" path="/xce/applications/PROFILES"/>
+
+<pub_group_copyright/>
+
+<publication journal_code="">
+
+<pub_name>PORTAL DA TRANSPARENCIA - SEGURO DEFESO</pub_name>
+
+<pub_type value="Company Profile"/>
+
+<pub_freq value="Monthly"/>
+
+<spec_lib value="#03FIN#"/>
+
+<pub_display>PORTAL DA TRANSPARENCIA - SEGURO DEFESO</pub_display>
+
+<pub_copyright>/pub_copyright>
+
+<file_name value="PDTSDF"/>
+
+<report_num value="PDTSDF"/>
+
+<smi value="A961"/>
+
+<logo_smi value=""/>
+
+<dpsi value="17K2"/>
+
+<dsi value=""/>
+
+<csi value=""/>
+
+<cease_date value=""/>
+
+<unique_state value="U"/>
+
+<abstract_state value="F"/>
+
+<language value="Portuguese"/>
+
+<applic_qualifier value=""/>
+
+<databases>
+
+<db name="1YYX" filenum="001" uniqdup="U" absfull="F" tasini="0" hotdb="0" maxdocs="1500000" dblanguage="" maxchars="1500000000" startdate="" enddate=""/>
+
+</databases>
+
+</publication>
+
+</metadata>

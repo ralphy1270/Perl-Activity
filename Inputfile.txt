@@ -1,0 +1,13 @@
+<STORY>
+
+<BODY-1>
+
+<p>Hello World!!</p>
+
+12736182736198273                  JOLLIBEE CORPORATION           00000000000
+
+<EDITION number="2" type="NS" date="2020-12-04" pnbdate="4 December 2020" created="20201204 1345" year="2020" month="December" dayofweek="Friday"/>
+
+</BODY-1>
+
+</STORY>

@@ -1,0 +1,7 @@
+<lnv:COPYRIGHT>
+<lnv:PUB-COPYRIGHT>Copyright
+         <lnvxe:copyright.year year="2023">2023</lnvxe:copyright.year>
+         <lnvxe:copyright.holder>Akire Tecnologia Da Informacao Ltda
+         </lnvxe:copyright.holder>, todos os direitos reservados</lnv:PUB-COPYRIGHT>
+</lnv:COPYRIGHT>
+<lnv:SPEC-LIB>#03FIN# #REPL# </lnv:SPEC-LIB>
